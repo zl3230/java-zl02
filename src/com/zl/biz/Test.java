@@ -1,2 +1,4 @@
-package com.zl.biz;public class Test {
+package com.zl.biz;
+
+public class Test  {
 }
